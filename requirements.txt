@@ -9,7 +9,12 @@ qpsolvers[open_source_solvers]>=4.4.0
 
 # Visualization
 matplotlib>=3.5.3,<4.0.0
-
+pillow>=8
+pyparsing>=2.3.1
+exceptiongroup>=1.0.0rc8
+iniconfig
+pluggy>=1.5,<2
+# other dependencies
 # Testing
 pytest>=6.2.5
 pytest-cov>=4.1.0
